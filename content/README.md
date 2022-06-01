@@ -11,7 +11,7 @@ My self made project.
 
 A world of our creation.
 
-Seen by the realself.
+Seen by the threadself.
 
 For updates, use the --> [RSS](http://txt.netescape.org/index.xml). <--
 
